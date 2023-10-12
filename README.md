@@ -13,6 +13,8 @@ The DRAFT SHELL, which encloses the fuel chamber below and on the sides - the up
 
 The CHIMNEY, which is placed over the fuel chamber and induces higher velocity gas flow as the combustion gas rises in a confined stream through surrounding dense ambient air.
 
-Reactor fabrication is described in the project wiki and included files: Materials List and .jpg
+Reactor fabrication is described in the project wiki and included files: 'Materials List' and 'TLUD funnel pattern' (which includes pattern for the chimney and draft shell)
 
 Reactor operation consists of six steps: assembly, loading, ignition, chimney placement, burning, and quenching. More detail is given in the project wiki.
+
+Use of biochar is discussed in the project wiki.
