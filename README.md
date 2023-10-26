@@ -7,7 +7,7 @@ TLUD signifies top-light-up-draft; a term of art in common use. It can also be c
 
 The reactor system features three components:
 
-The FUEL CHAMBER, where biomass is loaded, where combustion occurs, and where biochar accumulates. Pre-heated air enters the fuel chamber from the bottom and pre-heats biomass.
+The FUEL CHAMBER, where biomass is loaded, where combustion occurs, and where biochar accumulates. Pre-heated air enters the fuel chamber from the bottom and pre-heats biomass. The fuel chamber is a modified one-gallon steel paint can. It holds approximately 1kg of wood pieces. Biochar yield is about 15% of the original biomass. Your results may vary.
 
 The DRAFT SHELL, which encloses the fuel chamber below and on the sides - the updraft induced by convection over the flame zone creates low pressure which draws air into the bottom of the fuel chamber. This air must pass between the outer wall of the fuel chamber and the inner wall of the draft shell where it is heated by the fire chamber.
 
